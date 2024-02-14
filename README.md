@@ -1,4 +1,4 @@
-# JUMPSTART Ecommerce Site
+# JUMPSTART E - Commerce Site
 
 ## Project Overview
 
@@ -88,6 +88,37 @@ spring.datasource.password=<YOUR_DB_PASSWORD>
 
 #### Registration Thank You Page
 ![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/106215b8-eda7-4ba1-8249-f249eecce0ca)
+
+#### Login Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/4fa2f319-b16f-4dc0-a339-b0a494ffb95e)
+
+#### Post Product Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/c5e98ab9-00e7-4641-a2c5-3d5150e24d45)
+
+#### Profile Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/473a68e9-55c2-416d-a140-e74244b0713d)
+
+#### Edit Profile Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/f77d908c-d76a-4762-b173-6a18e6c0beac)
+
+#### Cart Before Add Items
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/23bd7b64-74db-4acc-9e8f-5188ed270de3)
+
+#### Cart After Add Items
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/ee156f7b-f97b-4e6e-a3a3-80253d0a0ae1)
+
+#### Admin Dashboard
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/a8f5bb8e-a273-4fd9-b954-fae23deb86ec)
+
+#### Product Management Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/99b42657-1a1c-4ef6-96f1-b749f6beae89)
+
+
+
+
+
+
+
 
 
 
