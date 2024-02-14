@@ -80,6 +80,14 @@ spring.datasource.password=<YOUR_DB_PASSWORD>
 #### Product Page
 ![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/6f08c1c6-ecd0-4076-82e3-d18163455304)
 
-##### Order Products Page
+#### Order Products Page
 ![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/b94a5114-af83-4dcb-a961-681c474e1344)
+
+#### Registration Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/3d8dc7d8-d2eb-4782-9e86-896b350ee14c)
+
+#### Registration Thank You Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/106215b8-eda7-4ba1-8249-f249eecce0ca)
+
+
 
