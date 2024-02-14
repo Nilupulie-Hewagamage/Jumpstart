@@ -69,3 +69,4 @@ spring.datasource.password=<YOUR_DB_PASSWORD>
 5. ## Project Result
 
 #### Landing Page
+![image](https://github.com/Nilupulie-Hewagamage/Jumpstart/assets/137420146/6e32e2b9-e539-4610-a438-2903c65736b3)
